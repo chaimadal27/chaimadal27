@@ -1,4 +1,9 @@
-<h1 align="center">Hi there, I'm Chaima</h1>  
+<h1 align="center">Hi there, I'm Chaima</h1> 
+<style>
+    h3 a:hover {
+        text-decoration: none;
+    }
+</style>
 <h3 align="center">
     🏗️ Experienced in building scalable web applications <br><br>
     📊 Data-driven problem solver with a knack for optimization <br><br>
