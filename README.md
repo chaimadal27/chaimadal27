@@ -1,17 +1,10 @@
 <h1 align="center">Hi there, I'm Chaima</h1> 
-<style>
-    h3 a:hover {
-        text-decoration: none;
-    }
-</style>
-<h3 align="center">
-    🏗️ Experienced in building scalable web applications <br><br>
-    📊 Data-driven problem solver with a knack for optimization <br><br>
-    🌱 Always learning and exploring new technologies <br><br>
-    🎯 Dedicated to writing clean, efficient, and maintainable code <br><br>
-    👨‍🚀 Open source enthusiast | 📚 Lifelong learner | Constantly expanding my knowledge in software development | 🎮 Gamer | 🎸 Musician <br><br>
-    Let's collaborate and create amazing software together! 🚀
-</h3>
+### 🏗️ Experienced in building scalable web applications <br><br>
+### 📊 Data-driven problem solver with a knack for optimization <br><br>
+### 🌱 Always learning and exploring new technologies <br><br>
+### 🎯 Dedicated to writing clean, efficient, and maintainable code <br><br>
+### 👨‍🚀 Open source enthusiast | 📚 Lifelong learner | Constantly expanding my knowledge in software development | 🎮 Gamer | 🎸 Musician <br><br>
+### Let's collaborate and create amazing software together! 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimadal27&label=Profile%20views&color=0e75b6&style=flat" alt="chaimadal27" /> </p>  
   
