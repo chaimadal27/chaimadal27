@@ -1,16 +1,16 @@
 <h2 align="center">Hi there, I'm Chaima 👋</h2> 
 
-  <p style="font-size:20px;">🏗️ Experienced in building scalable web applications.</p>
+  <p style="font-size:22px;">🏗️ Experienced in building scalable web applications.</p>
 
-  <p style="font-size:20px;">📊 Data-driven, problem solver with a knack for optimization.</p> 
+  <p style="font-size:22px;">📊 Data-driven, problem solver with a knack for optimization.</p> 
     
-  <p style="font-size:20px;">🌱 Always learning and exploring new technologies.</p>
+  <p style="font-size:22px;">🌱 Always learning and exploring new technologies.</p>
     
-  <p style="font-size:20px;">🎯 Dedicated to writing clean, efficient, and maintainable code.</p>
+  <p style="font-size:22px;">🎯 Dedicated to writing clean, efficient, and maintainable code.</p>
     
-  <p style="font-size:20px;">👨‍🚀 Open source enthusiast | 📚 Lifelong learner | Constantly expanding my knowledge in software development | 🎮 Gamer | 🎸 Musician</p>
+  <p style="font-size:22px;">👨‍🚀 Open source enthusiast | 📚 Lifelong learner | Constantly expanding my knowledge in software development | 🎮 Gamer | 🎸 Musician</p>
     
-  <p style="font-size:20px;">Let's collaborate and create amazing software together! 🚀</p>
+  <p style="font-size:22px;">Let's collaborate and create amazing software together! 🚀</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=chaimadal27&label=Profile%20views&color=0e75b6&style=flat" alt="chaimadal27" /> 
