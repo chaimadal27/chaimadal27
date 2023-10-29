@@ -18,7 +18,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=chaimadal27&label=Profile%20views&color=0e75b6&style=flat" alt="chaimadal27" /> 
 </p>  
-  <br>
+
 <!-- - ⚡ Fun fact **"The first-ever website, created by Tim Berners-Lee in 1991, is still online today. You can visit it at http://info.cern.ch." 🌐 🖥️** -->
 <h1>🖥️ Languages and Tools:</h1>
 <p align="left">
@@ -54,7 +54,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo" /></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
-<br>
+
 <h1>📊 Stats:</h1>
 <p align='center'>
   <a href='#'>
