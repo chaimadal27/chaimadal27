@@ -50,7 +50,7 @@
 </p>
 
 <br>
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaimadal27&show_icons=true&locale=en&layout=compact" alt="chaimadal27" style="width: 300px; height: 200px;" />
   </div>
@@ -61,6 +61,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaimadal27&" alt="chaimadal27" style="width: 300px; height: 200px;" />
   </div>
 </div>
+
 
 
 
