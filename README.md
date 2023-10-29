@@ -1,6 +1,3 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="./style.css">
-</head>
 <h1 align="center">Hi there, I'm Chaima 👋</h1> 
 
   <p style="font-size:18px;">🏗️ Experienced in building scalable web applications.</p>
