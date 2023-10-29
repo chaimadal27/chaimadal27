@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Chaima 👋</h1> 
 
-  <p style="font-size:18px;">🏗️ Experienced in building scalable web applications.</p>
+  <p style="font-size:19px;">🏗️ Experienced in building scalable web applications.</p>
 
   <p style="font-size:18px;">📊 Data-driven problem solver with a knack for optimization.</p> 
     
