@@ -2,7 +2,7 @@
   <link rel="stylesheet" type="text/css" href="./style.css">
 </head>
 <h1 align="center">Hi there, I'm Chaima</h1> 
-<h3 align="center">
+<h3>
     🏗️ Experienced in building scalable web applications <br><br>
     📊 Data-driven problem solver with a knack for optimization <br><br>
     🌱 Always learning and exploring new technologies <br><br>
@@ -11,10 +11,12 @@
     Let's collaborate and create amazing software together! 🚀
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimadal27&label=Profile%20views&color=0e75b6&style=flat" alt="chaimadal27" /> </p>  
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=chaimadal27&label=Profile%20views&color=0e75b6&style=flat" alt="chaimadal27" /> 
+</p>  
   
-- ⚡ Fun fact **"The first-ever website, created by Tim Berners-Lee in 1991, is still online today. You can visit it at http://info.cern.ch." 🌐🖥️**  
-<h3 align="left">Languages and Tools:</h3>
+- ⚡ Fun fact **"The first-ever website, created by Tim Berners-Lee in 1991, is still online today. You can visit it at http://info.cern.ch." 🌐 🖥️**
+<h1>Languages and Tools:</h1>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
@@ -50,7 +52,6 @@
 </p>
 <br>
 <h1>📊 Stats</h1>
-
 <p align='center'>
   <a href='#'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaimadal27&show_icons=true&locale=en&layout=compact" alt="chaimadal27" />
@@ -66,14 +67,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaimadal27&" alt="chaimadal27" />
   </a>
 </p>
-<!-- <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaimadal27&show_icons=true&locale=en&layout=compact" alt="chaimadal27" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=chaimadal27&show_icons=true&locale=en" alt="chaimadal27" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaimadal27&" alt="chaimadal27" />
-  </div>
-</div> -->
