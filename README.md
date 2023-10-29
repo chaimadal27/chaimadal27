@@ -3,15 +3,15 @@
 </head>
 <h1 align="center">Hi there, I'm Chaima 👋</h1> 
 
-  <p style="font-size:16px;">🏗️ Experienced in building scalable web applications.</p>
+  <p style="font-size:18px;">🏗️ Experienced in building scalable web applications.</p>
 
-  <p style="font-size:16px;">📊 Data-driven problem solver with a knack for optimization.</p> 
+  <p style="font-size:18px;">📊 Data-driven problem solver with a knack for optimization.</p> 
     
-  <p style="font-size:16px;">🌱 Always learning and exploring new technologies.</p>
+  <p style="font-size:18px;">🌱 Always learning and exploring new technologies.</p>
     
-  <p style="font-size:16px;">🎯 Dedicated to writing clean, efficient, and maintainable code.</p>
+  <p style="font-size:18px;">🎯 Dedicated to writing clean, efficient, and maintainable code.</p>
     
-  <p style="font-size:16px;">👨‍🚀 Open source enthusiast | 📚 Lifelong learner | Constantly expanding my knowledge in software development | 🎮 Gamer | 🎸 Musician</p>
+  <p style="font-size:18px;">👨‍🚀 Open source enthusiast | 📚 Lifelong learner | Constantly expanding my knowledge in software development | 🎮 Gamer | 🎸 Musician</p>
     
   <p>Let's collaborate and create amazing software together! 🚀</p>
 
