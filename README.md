@@ -3,17 +3,17 @@
 </head>
 <h1 align="center">Hi there, I'm Chaima 👋</h1> 
 
-  🏗️ Experienced in building scalable web applications.
+  <p style="font-size:16px;">🏗️ Experienced in building scalable web applications.</p>
 
-  📊 Data-driven problem solver with a knack for optimization. 
+  <p style="font-size:16px;">📊 Data-driven problem solver with a knack for optimization.</p> 
     
-  🌱 Always learning and exploring new technologies. 
+  <p style="font-size:16px;">🌱 Always learning and exploring new technologies.</p>
     
-  🎯 Dedicated to writing clean, efficient, and maintainable code.
+  <p style="font-size:16px;">🎯 Dedicated to writing clean, efficient, and maintainable code.</p>
     
-  👨‍🚀 Open source enthusiast | 📚 Lifelong learner | Constantly expanding my knowledge in software development | 🎮 Gamer | 🎸 Musician 
+  <p style="font-size:16px;">👨‍🚀 Open source enthusiast | 📚 Lifelong learner | Constantly expanding my knowledge in software development | 🎮 Gamer | 🎸 Musician</p>
     
-  Let's collaborate and create amazing software together! 🚀
+  <p>Let's collaborate and create amazing software together! 🚀</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=chaimadal27&label=Profile%20views&color=0e75b6&style=flat" alt="chaimadal27" /> 
