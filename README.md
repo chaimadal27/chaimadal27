@@ -48,9 +48,10 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo" /></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
-
 <br>
+## 📊 Stats
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaimadal27&show_icons=true&locale=en&layout=compact" alt="chaimadal27" />
   </div>
@@ -61,25 +62,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaimadal27&" alt="chaimadal27" />
   </div>
 </div>
-
-
-
-
-
-
-
-<!-- <div style="display: flex; justify-content: space-between;">
-  <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaimadal27&show_icons=true&locale=en&layout=compact" alt="chaimadal27" />
-  </div>
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaimadal27&show_icons=true&locale=en" alt="chaimadal27" />
-  </div>
-  <div>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chaimadal27&" alt="chaimadal27" />
-  </div>
-</div> -->
-
-<br>
-
-<p></p>
