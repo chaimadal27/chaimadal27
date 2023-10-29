@@ -51,7 +51,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
 <br>
-<h1>📊 Stats</h1>
+<h1>📊 Stats:</h1>
 <p align='center'>
   <a href='#'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaimadal27&show_icons=true&locale=en&layout=compact" alt="chaimadal27" />
