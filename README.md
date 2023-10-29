@@ -55,16 +55,16 @@
 <h2>📊 Stats:</h2>
 <p align='center'>
   <a href='#'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaimadal27&show_icons=true&locale=en&layout=compact&theme=dark" alt="chaimadal27" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaimadal27&show_icons=true&locale=en&layout=compact&theme=dark" alt="chaimadal27" width="350px" />
   </a>
 </p>
 <p align='center'>
   <a href='#'>
-  <img src="https://github-readme-stats.vercel.app/api?username=chaimadal27&show_icons=true&locale=en&theme=dark" alt="chaimadal27" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaimadal27&show_icons=true&locale=en&theme=dark" alt="chaimadal27" width="350px" />
   </a>
 </p>
 <p align='center'>
   <a href='#'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaimadal27&theme=dark" alt="chaimadal27" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaimadal27&theme=dark" alt="chaimadal27" width="350px"/>
   </a>
 </p>
