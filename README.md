@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Chaima 👋</h2> 
+<h1 align="center">Hi there, I'm Chaima 👋</h1> 
 
   <p style="font-size:22px;">🏗️ Experienced in building scalable web applications.</p>
 
@@ -17,7 +17,7 @@
 </p>  
 
 <!-- - ⚡ Fun fact **"The first-ever website, created by Tim Berners-Lee in 1991, is still online today. You can visit it at http://info.cern.ch." 🌐 🖥️** -->
-<h2>🖥️ Languages and Tools:</h2>
+<h1>🖥️ Languages and Tools:</h1>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
@@ -52,7 +52,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
 
-<h2>📊 Stats:</h2>
+<h1>📊 Stats:</h1>
 <p align='center'>
   <a href='#'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaimadal27&show_icons=true&locale=en&layout=compact&theme=dark" alt="chaimadal27" width="350px" />
