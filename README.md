@@ -2,19 +2,18 @@
   <link rel="stylesheet" type="text/css" href="./style.css">
 </head>
 <h1 align="center">Hi there, I'm Chaima 👋</h1> 
-<p>
-    🏗️ Experienced in building scalable web applications.
 
-    📊 Data-driven problem solver with a knack for optimization. 
+  🏗️ Experienced in building scalable web applications.
+
+  📊 Data-driven problem solver with a knack for optimization. 
     
-    🌱 Always learning and exploring new technologies. 
+  🌱 Always learning and exploring new technologies. 
     
-    🎯 Dedicated to writing clean, efficient, and maintainable code.
+  🎯 Dedicated to writing clean, efficient, and maintainable code.
     
-    👨‍🚀 Open source enthusiast | 📚 Lifelong learner | Constantly expanding my knowledge in software development | 🎮 Gamer | 🎸 Musician 
+  👨‍🚀 Open source enthusiast | 📚 Lifelong learner | Constantly expanding my knowledge in software development | 🎮 Gamer | 🎸 Musician 
     
-     Let's collaborate and create amazing software together! 🚀
-</p>
+  Let's collaborate and create amazing software together! 🚀
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=chaimadal27&label=Profile%20views&color=0e75b6&style=flat" alt="chaimadal27" /> 
