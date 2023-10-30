@@ -18,7 +18,7 @@
 
 <!-- - ⚡ Fun fact **"The first-ever website, created by Tim Berners-Lee in 1991, is still online today. You can visit it at http://info.cern.ch." 🌐 🖥️** -->
 <h2>🖥️ Languages and Tools:</h2>
-<p align="left">
+
 <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
     <thead>
       <tr>
@@ -78,7 +78,7 @@
       </tr>
     </tbody>
   </table>
-</p>
+
 
 <h2>📊 Stats:</h2>
 <p align='center'>
