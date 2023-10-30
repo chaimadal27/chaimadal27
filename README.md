@@ -36,8 +36,8 @@
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 30px; height: 30px;" /></a>
             <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" style="width: 30px; height: 30px;" /></a>
             <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="width: 30px; height: 30px;" /></a>
-            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" style="max-width: 30px; max-height: 30px;" /></a>
-            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" style="width: 60px; height: 30px;" /></a>
+            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" style="max-width: 20px; max-height: 20px;" /></a>
+            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" style="width: 50px; height: 30px;" /></a>
           </div>
         </td>
         <td style="border: 1px solid #ddd; padding: 8px;">
