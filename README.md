@@ -33,46 +33,46 @@
       <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">
           <div style="display: flex; gap: 10px;">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 30px; height: 30px;" /></a>
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" style="width: 30px; height: 30px;" /></a>
-            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="width: 30px; height: 30px;" /></a>
-            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" style="width: 30px; height: 30px;" /></a>
-            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" style="width: 50px; height: 30px;" /></a>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 30px; height: 30px;" />
+            <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" style="width: 30px; height: 30px;" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="width: 30px; height: 30px;" />
+            <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" style="width: 30px; height: 30px;" />
+            <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" style="width: 50px; height: 30px;" />
           </div>
         </td>
         <td style="border: 1px solid #ddd; padding: 8px;">
           <div style="display:flex; gap:10px">
-            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="csharp" width="30" height="30"/></a>
-            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="csharp" width="30" height="30"/></a>
-            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="csharp" width="30" height="30"/></a>
-            <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/></a>
-            <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="redux" width="30" height="30"/></a>
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
-            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="30" height="30"/></a>
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="30" height="30"/></a>
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nodejs" width="30" height="30"/></a>
-            <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/></a>
+            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="csharp" width="30" height="30"/>
+            <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="csharp" width="30" height="30"/>
+            <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="csharp" width="30" height="30"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
+            <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="redux" width="30" height="30"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="30" height="30"/></a>
+            <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="30" height="30"/>
+            <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nodejs" width="30" height="30"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/>
           </div>
         </td>
         <td style="border: 1px solid #ddd; padding: 8px;">
           <div style="display:flex; gap:10px;">
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
-            <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/></a>
-            <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="docker" width="30" height="30"/></a>
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
+            <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="docker" width="30" height="30"/>
           </div>
         </td>
         <td style="border: 1px solid #ddd; padding: 8px;">
           <div style="display:flex; gap:10px;">
-            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/></a>
-            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/></a>
-            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="firebase" width="30" height="30"/></a>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
+            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
+            <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="firebase" width="30" height="30"/>
           </div>
         </td>
         <td style="border: 1px solid #ddd; padding: 8px;">
           <div style="display:flex; gap:10px;">
-            <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/></a>
-            <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="reactnative" width="30" height="30"/></a>
+            <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/>
+            <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="reactnative" width="30" height="30"/>
           </div>
         </td>
       </tr>
